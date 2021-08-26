@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SeniorPatatasFritas
+- 👀 I’m interested in Patatas Fritas y Fritas de Patatas
+- 🌱 I’m currently learning Python & HTML (noob)
+- 📫 How to reach me? No...
